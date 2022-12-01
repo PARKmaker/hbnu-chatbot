@@ -1,0 +1,77 @@
+인공지능
+1. 초기 인공지능 연구에 대한 정의를 제안한 사람은 누구인가요? - 답변 : 존 메카시 - 정답
+2. 인공지능의 또다른 정의는 무엇인가요? - 답변 : 인공적인 장치들이 가지는 지능 - 정답
+3. 인공지능 정의에 분류는 무엇이 있나요? - 답변 : 범용인공지능 ( AGI, 강한 인공지능 ) 에 대한 고려를 하지 못한 것 같다. 인공지능의 또다른 정의는 인공적인 장치들이 가지는 지능이다. 거의 대부분 정의들이 인간처럼 사고하는 시스템, 인간처럼 행동하는 시스템, 이성적으로 사고하는 시스템 그리고 이성적으로 행동하는시스템 - 정답을 포함하는 답변
+4. 몸이 아닌 기계에 인간의 지능이나 의식을 구현하는 작업의 실현 가능성에 대한 철학적 바탕을 두고 논쟁을 벌인 사람은? - 답변 : 허버트 드레이퍼스 - 일부만 답변
+
+
+
+중간고사,과제안내
+Send to Server => 어제(12일) 배운 다중화까지 입니다
+Recieve From Server => echo : 중간고사 안내시험 범위
+
+Send to Server => 시험시간 알려줘요
+Recieve From Server => echo : 
+
+Send to Server => 시험시간 뭔가요?
+Recieve From Server => echo : [CLS] 시험시간 뭔가요? [SEP] 중간고사 안내시험 범위 : 어제 ( 12일 ) 배운 다중화까지 입니다 ( 1 ) 객관식은 교과서 문제 또는 기사문제로 15문제를 다 답을 하셔야 합니다 ( 2 ) 용어문제는 7문제가 출제되어 5문제를 선택하여 답을 하셔야 합니다 ( 예 ) BS와 FS 의 비교 = = > 간단하게 5줄 범위내로 작성하셔야 - BS와 FS의 등장배경, 용어설명비교, 적용사례 등 구체적으로 5줄 범위내로 작성 단순하게 비교하여 1줄 작성시 틀린 답으로 간주함 ( 3 ) 주관식 문제는 7문제가 출제되어 5문제를 선택하여 답을 하셔야 합니다 ( 예 ) 부호를 선택할 시 고려함 점은? - 단순하게 4가지를 작성하시면 오답입니다 - 그림을 그리고 4가지 요소를 비교하여 설명하고 10줄의 범위내로 작성하셔야 합니다 ( 자신의 주관적 생각도 작성하면 + 점수를 드립니다 * 시험시간은 19일 14시부터 15시반
+
+Send to Server => 과제는 언제까지 제출해야하나요?
+Recieve From Server => echo : 26일
+
+Send to Server => 시험시간은 언제부터 언제까진가요?
+Recieve From Server => echo : 
+
+Send to Server => 시험시간?
+Recieve From Server => echo : 19일 14시부터 15시반
+
+Send to Server => 시험범위?
+Recieve From Server => echo : 모르겠어요.
+
+Send to Server => 시험 범위?
+Recieve From Server => echo : 모르겠어요.
+
+Send to Server => 주관식 문제 수는 몇인가요?
+Recieve From Server => echo : 7문제가
+
+조선 왕 계보
+Send to Server => 이성계는 몇대 왕인가요?
+Recieve From Server => echo : 1대왕
+
+Send to Server => 3대 태종은 누구인가요?
+Recieve From Server => echo : 이성계
+
+Send to Server => 세종의 맏아들은 누구인가요?
+Recieve From Server => echo : 문종
+
+
+컴퓨터 프로그램
+Send to Server => 컴퓨터에서 실행될 때 특정 작업을 수행하는 일련의 명령어들의 모음은 무엇인가요?
+Recieve From Server => echo : 컴퓨터 프로그램
+
+Send to Server => 컴퓨터에 입력되는 일련의 명령문 집합체이며 대부분의 프로그램은 실행 중에 사용자의 입력에 반응하도록 구현된 일련의 명령어들로 구성된것은 무엇인가요?
+Recieve From Server => echo : 대부분의프로그램
+
+Send to Server => 자카드 식 문직기를 고안한 사람은?
+Recieve From Server => echo : 조셉 마리 자카드는
+
+Send to Server => 컴파일된 결과물뿐만 아니라, 프로그래머가 작성한 소스 코드까지도 포함하는 것은?
+Recieve From Server => echo : 프로그램
+
+Send to Server => 프로그램뿐만 아니라 CD, 설명서, 제품 포장 등 패키지 전체를 뜻하는 것은?
+Recieve From Server => echo : 소프트웨어
+
+세종의 맏아들은 누구인가요?
+이성계는 몇대 왕인가요
+3대 태종은 누구인가요?
+태종시계는 무엇인가요?
+딥러닝 - 오류역적파 알고리즘을 소개한 사람은?
+인공지능의 또다른 정의는 무엇인가요?
+딥러닝?
+딥러닝이 무엇인가요?
+딥러닝 - 오류역적파 알고리즘을 소개한 사람은?
+초기 인공지능 연구에 대한 정의를 제안한 사람은 누구인가요?
+
+https://www.youtube.com/watch?v=UrwbeOIlc68&ab_channel=edureka%21
+
+https://www.youtube.com/watch?v=S85Bl2ysigE&ab_channel=%EC%98%A4%EB%B9%A0%EB%91%90%EC%97%91%EC%85%80l%EC%97%91%EC%85%80%EA%B0%95%EC%9D%98%EB%8C%80%ED%91%9C%EC%B1%84%EB%84%90

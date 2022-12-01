@@ -1,0 +1,101 @@
+.header {
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: 3.5rem;
+    display: flex;
+    justify-content: center;
+    background-color: #3D8361;
+}
+
+.header-container {
+    padding: 0 2.4rem;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    z-index: 999;
+    font-weight: 700;
+    font-size: 1.1em;
+}
+
+.header-left {
+    flex: 5;
+    margin-left: 12px;
+}
+
+.header-left .logo {
+    font-size: 36px;
+    color: black;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.header-center {
+    flex: 4;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.header-link {
+    color: white;
+    width: 100%;
+    height: 30px;
+    margin: 4px 4px;
+    transition: all 0.3s ease 0s;
+}
+
+.header-link:hover{
+    color: #b4b4b4;
+}
+
+.header-right {
+    /* flex: 1; */
+    margin-right: 8px;
+    transition: all 0.3s ease 0s;
+}
+
+.header-right:hover {
+    fill: #b4b4b4;
+
+}
+/* .header-right .header-cta{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #D6CDA4;
+    color: #000000;
+    border-radius: 25px;
+    height: 36px;
+    transition: all 0.3s ease 0s;
+    padding: 5px;
+} */
+
+/* .header-cta:hover{
+    background-color: rgb(254, 243, 183);
+} */
+
+/* .header-nav_lecturList li {
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+.header-nav_lecturList li a {
+    transition: all 0.3s ease 0s;
+}
+
+.header-nav_lecturList li a:hover {
+    
+}
+
+.cta button {
+    padding: 9px 25px;
+    background-color: rgb(127, 186, 200);
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+}
+
+.cta button:hover {
+    background-color: #b4b4b4;
+} */

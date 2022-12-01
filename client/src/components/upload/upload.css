@@ -1,0 +1,101 @@
+.upload_container {
+  flex: 7;
+  display: flex;
+  flex-direction: column;
+}
+
+.upload_option{
+  display: flex;
+  height: 100%;
+  flex: 9;
+}
+
+.upload_video {
+  flex: 5;
+  box-shadow: 0 2px 3px rgb(0 10 18 / 10%), 0 0 0 1px rgb(0 10 18 / 10%);
+  margin: 5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.share_icon {
+  font-size: 36px;
+  margin-right: 3px;
+}
+
+.share_optionText {
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.upload_keywords {
+  margin: 5px;
+  flex: 5;
+  display: flex;
+  flex-direction: column;
+}
+
+.upload_title{
+  box-shadow: 0 2px 3px rgb(0 10 18 / 10%), 0 0 0 1px rgb(0 10 18 / 10%);
+  flex: 2;
+  margin: 15px;
+  padding: 10px;
+  font-size: 24px;
+}
+
+.upload_description{
+  box-shadow: 0 2px 3px rgb(0 10 18 / 10%), 0 0 0 1px rgb(0 10 18 / 10%);
+  flex: 3;
+  margin: 15px;
+  padding: 10px;
+  font-size: 16px;
+}
+
+.upload_lecturePlan{
+  box-shadow: 0 2px 3px rgb(0 10 18 / 10%), 0 0 0 1px rgb(0 10 18 / 10%);
+  flex: 5;
+  margin: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.upload_button {
+  margin: 5px;
+  flex: 1;
+  box-shadow: 0 2px 3px rgb(0 10 18 / 10%), 0 0 0 1px rgb(0 10 18 / 10%);
+  transition-duration: 0.2s;
+}
+
+.upload_button:hover{
+  background-color: beige;
+}
+
+.upload_button:active {
+  background-color: orange;
+}
+
+.upload_buttonText{
+  display: flex;
+  position: relative;
+  top: 15px;
+  justify-content: center;
+}
+
+.upload_video_input{
+  background-color: gainsboro;
+  width: 90%;
+  margin-top: 30px;
+  font-size: 18px;
+  padding: 5px;
+}
+
+.notUpload{
+  transition-duration: 0.2s;
+  background-color: gray;
+}
